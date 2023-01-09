@@ -1,2 +1,3 @@
-# curso-java-dio
-Anotações sobre o curso JAVA Dio
+# Curso JAVA Dio
+
+## Anotações e entregas sobre o curso de JAVA da Digital Inovation One
